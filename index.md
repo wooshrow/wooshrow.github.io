@@ -1,3 +1,7 @@
-# Batman beats superman! 1
+# Research
 
-## H2
+### [APLIB: an agent-based automated testing library](https://github.com/iv4xr-project/aplib)
+
+# Teaching
+
+## Master projects
