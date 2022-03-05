@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Github page at (https://wooshrow.github.io./)[https://wooshrow.github.io./]
+(Github page here)[https://wooshrow.github.io./]
 
 <!--
 **wooshrow/wooshrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
